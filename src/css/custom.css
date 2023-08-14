@@ -1,0 +1,126 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #f26b00;
+  --ifm-color-primary-dark: #da6000;
+  --ifm-color-primary-darker: #ce5b00;
+  --ifm-color-primary-darkest: #a94b00;
+  --ifm-color-primary-light: #ff770b;
+  --ifm-color-primary-lighter: #ff7e17;
+  --ifm-color-primary-lightest: #ff923c;
+  --ifm-code-font-size: 95%;
+  --main-bg-color: var(--ifm-color-primary);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+
+[data-theme='dark'] {
+  --ifm-color-primary: #f26b00;
+  --ifm-color-primary-dark: #da6000;
+  --ifm-color-primary-darker: #ce5b00;
+  --ifm-color-primary-darkest: #a94b00;
+  --ifm-color-primary-light: #ff770b;
+  --ifm-color-primary-lighter: #ff7e17;
+  --ifm-color-primary-lightest: #ff923c;
+  --main-bg-color: black;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.homeContainer {
+  text-align: left;
+  overflow: hidden;
+  position: relative;
+  background-color: var(--main-bg-color);
+}
+
+.homeContainer .homeWrapper {
+  padding: 10em 1em;
+}
+
+.homeBanner {
+  font-family: 'smileySans';
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px;
+  max-width: 768px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.homeBanner a {
+  text-decoration: underline;
+}
+
+.logo {
+  position: absolute;
+  opacity: 0.1;
+  left: 0;
+  right: 0;
+  top: -400px;
+  max-width: 1400px;
+  margin: auto;
+}
+
+.logo img {
+  transform: rotate(-26deg);
+  width: 100%;
+}
+
+.projectTitle > small {
+  font-size: 2.5rem;
+  margin: 1em 0 0.5em 0;
+  font-weight: 500;
+}
+
+.projectTitle > small:last-child {
+  margin-top: 0;
+}
+
+@font-face {
+  font-family: 'smileySans';
+  src: url('SmileySans-Oblique.ttf');
+}
+
+.navbar .navbar__title{
+  font-weight: lighter;
+  font-size: 1.2rem;
+  margin-left: 12px;
+  color: #a94b00;
+  font-family: 'smileySans';
+}
+
+.projectTitle {
+  position: inherit;
+  font-size: 2rem;
+  margin-left: auto;
+  font-family: 'smileySans';
+  font-weight: lighter;
+}
+
+.projectTitle  small{
+  font-size: 2rem;
+  position: relative;
+  left: 100px;
+  font-family: 'smileySans';
+}
+
+.header-Github-link:before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: flex;
+  /* border: solid 1px red; */
+  background: url(../img/github-mark.svg) no-repeat;
+}
+
+.header-Github-link:hover {
+  opacity: 0.6;
+}
