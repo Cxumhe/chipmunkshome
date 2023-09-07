@@ -16,7 +16,7 @@ On Ubuntu　　 Ctrl + Shift + I
 
 裁剪尾随空格 Ctrl + K Ctrl + X
 
-选中所有找到的匹配项 Ctrl + Shift + L
+选中所有找到的匹配项 Ctrl + Shift + L  
 在所选的每一行的末尾插入光标 Shift + Alt + I
 
 侧边预览 Ctrl + K V

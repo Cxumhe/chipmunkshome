@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "b590a802e93c6954",
+    "type": "split",
+    "children": [
+      {
+        "id": "45668e2038c7dd31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4291dc822bdaac78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web front-end/HTML标签语义英文缩写速查.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8323e2b93dc300",
+    "type": "split",
+    "children": [
+      {
+        "id": "9adbef0ddb96b211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9e34d3c62386c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65e8f12ce434a4d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4f4105d52db9f3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dca35a0a12f6793",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1671cd81d53460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4378200ff0514f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web front-end/HTML标签语义英文缩写速查.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d627ad0fcc14bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "web front-end/HTML标签语义英文缩写速查.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73dba7b8066c60df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0765030c6b86daf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "web front-end/HTML标签语义英文缩写速查.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4291dc822bdaac78",
+  "lastOpenFiles": [
+    "工具网站速查.md",
+    "VScode快捷键.md",
+    "UI使用指南.md",
+    "Markdown语法.md",
+    "Git.md",
+    "docusaurus.md",
+    "web front-end/1.HTML/2.Metadata.md",
+    "img/Pastedimage20230717163038.png",
+    "未命名.md",
+    "web front-end/1.HTML/14.HTML table advanced features and accessibility.md",
+    "web front-end/1.HTML/1.HTML.md",
+    "img/docusaurus-20230907221212.png",
+    "img/2.Metadata-20230907221253.png",
+    "img/Pastedimage20230724135845.png",
+    "img/Pastedimage20230724135205.png",
+    "web front-end/1.HTML/11.Adding vector graphics to the web.md",
+    "img/docusaurus-20230907220444.png",
+    "img/docusaurus-20230907220431.png",
+    "img/docusaurus-2023090722.png",
+    "img/docusaurus-20230907220996.png",
+    "img/docusaurus-20230907220983.png",
+    "web front-end/HTML标签语义英文缩写速查.md",
+    "web front-end/HTML属性英文缩写速查.md",
+    "web front-end/2.CSS/11.Cascade, specificity, and inheritance.md",
+    "web front-end/1.HTML/8.Images in HTML.md",
+    "web front-end/1.HTML/4.Creating hyperlinks.md",
+    "web front-end/1.HTML/3.HTML text fundamentals.md",
+    "web front-end/1.HTML/13.HTML table basics.md",
+    "img",
+    "新建文件夹",
+    "what",
+    "web front-end/2.CSS/3.How CSS is structured.md",
+    "web front-end/2.CSS/2.Getting started with CSS.md",
+    "web front-end/2.CSS/1.What is CSS.md",
+    "web front-end/1.HTML/12.Responsive images.md"
+  ]
+}
