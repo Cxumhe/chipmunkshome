@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web front-end/HTML标签语义英文缩写速查.md",
+                "file": "VScode快捷键.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web front-end/HTML标签语义英文缩写速查.md",
+                "file": "VScode快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web front-end/HTML标签语义英文缩写速查.md",
+                "file": "VScode快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web front-end/HTML标签语义英文缩写速查.md"
+                "file": "VScode快捷键.md"
               }
             }
           }
@@ -148,40 +148,44 @@
   },
   "active": "4291dc822bdaac78",
   "lastOpenFiles": [
-    "工具网站速查.md",
-    "VScode快捷键.md",
     "UI使用指南.md",
     "Markdown语法.md",
     "Git.md",
     "docusaurus.md",
-    "web front-end/1.HTML/2.Metadata.md",
+    "工具网站速查.md",
+    "WEB FRONT_END/2.CSS/11.Cascade, specificity, and inheritance.md",
+    "WEB FRONT_END/2.CSS/10.Combinators.md",
+    "WEB FRONT_END/2.CSS/9.✳参考节.md",
+    "WEB FRONT_END/2.CSS/8.Pseudo-classes and pseudo-elements.md",
+    "WEB FRONT_END/2.CSS/7.Attribute selectors.md",
+    "WEB FRONT_END/2.CSS/6.Type, class, and ID selectors.md",
+    "WEB FRONT_END/2.CSS/5.CSS selectors.md",
+    "WEB FRONT_END/2.CSS/4.How CSS works.md",
+    "WEB FRONT_END/2.CSS/3.How CSS is structured.md",
+    "WEB FRONT_END/2.CSS/1.What is CSS.md",
+    "WEB FRONT_END/2.CSS/2.Getting started with CSS.md",
+    "WEB FRONT_END/1.HTML/14.HTML table advanced features and accessibility.md",
+    "WEB FRONT_END/1.HTML/13.HTML table basics.md",
+    "WEB FRONT_END/1.HTML/12.Responsive images.md",
+    "WEB FRONT_END/1.HTML/11.Adding vector graphics to the web.md",
+    "WEB FRONT_END/1.HTML/10.Frome object to iframe--other embedding technologies.md",
+    "WEB FRONT_END/1.HTML/9.Video and audio on the web.md",
+    "WEB FRONT_END/1.HTML/8.Images in HTML.md",
+    "WEB FRONT_END/1.HTML/7.Debugging HTML.md",
+    "WEB FRONT_END/1.HTML/6.Document and website structure.md",
+    "WEB FRONT_END/1.HTML/5.Advanced text formatting.md",
+    "img/14.HTML table advanced features and accessibility-20230907222123.png",
+    "img/Git-20230907222050.png",
     "img/Pastedimage20230717163038.png",
-    "未命名.md",
-    "web front-end/1.HTML/14.HTML table advanced features and accessibility.md",
-    "web front-end/1.HTML/1.HTML.md",
     "img/docusaurus-20230907221212.png",
     "img/2.Metadata-20230907221253.png",
     "img/Pastedimage20230724135845.png",
     "img/Pastedimage20230724135205.png",
-    "web front-end/1.HTML/11.Adding vector graphics to the web.md",
     "img/docusaurus-20230907220444.png",
     "img/docusaurus-20230907220431.png",
     "img/docusaurus-2023090722.png",
-    "img/docusaurus-20230907220996.png",
-    "img/docusaurus-20230907220983.png",
-    "web front-end/HTML标签语义英文缩写速查.md",
-    "web front-end/HTML属性英文缩写速查.md",
-    "web front-end/2.CSS/11.Cascade, specificity, and inheritance.md",
-    "web front-end/1.HTML/8.Images in HTML.md",
-    "web front-end/1.HTML/4.Creating hyperlinks.md",
-    "web front-end/1.HTML/3.HTML text fundamentals.md",
-    "web front-end/1.HTML/13.HTML table basics.md",
     "img",
     "新建文件夹",
-    "what",
-    "web front-end/2.CSS/3.How CSS is structured.md",
-    "web front-end/2.CSS/2.Getting started with CSS.md",
-    "web front-end/2.CSS/1.What is CSS.md",
-    "web front-end/1.HTML/12.Responsive images.md"
+    "what"
   ]
 }
