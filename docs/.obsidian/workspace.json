@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VScode快捷键.md",
+                "file": "WEB FRONT_END/2.CSS/13.The box model.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "5dca35a0a12f6793",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VScode快捷键.md",
+                "file": "WEB FRONT_END/2.CSS/13.The box model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VScode快捷键.md",
+                "file": "WEB FRONT_END/2.CSS/13.The box model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VScode快捷键.md"
+                "file": "WEB FRONT_END/2.CSS/13.The box model.md"
               }
             }
           }
@@ -148,42 +148,45 @@
   },
   "active": "4291dc822bdaac78",
   "lastOpenFiles": [
+    "WEB FRONT_END/2.CSS/12.Cascade layers.md",
+    "WEB FRONT_END/2.CSS/13.The box model.md",
+    "img/12.Cascade layers-20230909223930.png",
+    "img/12.Cascade layers-20230909214609.png",
+    "img/12.Cascade layers-20230909214533.png",
+    "WEB FRONT_END/2.CSS/1.What is CSS.md",
+    "WEB FRONT_END/CSS控制继承.md",
+    "img/12.Cascade layers-20230909194920.png",
+    "WEB FRONT_END/2.CSS/11.Cascade, specificity, and inheritance.md",
+    "img/11.Cascade, specificity, and inheritance-20230909192142.png",
+    "VScode快捷键.md",
+    "vim-cheatsheet.pdf",
+    "vim-cheatsheet（备忘单）.md",
+    "vim-cheatsheet.md",
+    "WEB FRONT_END/vim-cheatsheet.pdf",
+    "img/vim-cheatsheet-20230909183010.png",
+    "新建 文本文档.txt",
+    "img/11.Cascade, specificity, and inheritance-20230909000737.png",
+    "img/11.Cascade, specificity, and inheritance-20230908235828.png",
+    "img/11.Cascade, specificity, and inheritance-20230908235822.png",
+    "img/11.Cascade, specificity, and inheritance-20230908235740.png",
+    "WEB FRONT_END/2.CSS/10.Combinators.md",
+    "WEB FRONT_END/2.CSS/9.✳参考节.md",
+    "WEB FRONT_END/HTML空格.md",
+    "WEB FRONT_END/HTML属性英文缩写速查.md",
+    "WEB FRONT_END/1.HTML/1.HTML start here.md",
+    "WEB FRONT_END/1.HTML/2.Metadata.md",
+    "WEB FRONT_END/1.HTML/3.HTML text fundamentals.md",
+    "WEB FRONT_END/HTML标签语义英文缩写速查.md",
     "UI使用指南.md",
     "Markdown语法.md",
     "Git.md",
     "docusaurus.md",
     "工具网站速查.md",
-    "WEB FRONT_END/2.CSS/11.Cascade, specificity, and inheritance.md",
-    "WEB FRONT_END/2.CSS/10.Combinators.md",
-    "WEB FRONT_END/2.CSS/9.✳参考节.md",
     "WEB FRONT_END/2.CSS/8.Pseudo-classes and pseudo-elements.md",
     "WEB FRONT_END/2.CSS/7.Attribute selectors.md",
     "WEB FRONT_END/2.CSS/6.Type, class, and ID selectors.md",
     "WEB FRONT_END/2.CSS/5.CSS selectors.md",
     "WEB FRONT_END/2.CSS/4.How CSS works.md",
-    "WEB FRONT_END/2.CSS/3.How CSS is structured.md",
-    "WEB FRONT_END/2.CSS/1.What is CSS.md",
-    "WEB FRONT_END/2.CSS/2.Getting started with CSS.md",
-    "WEB FRONT_END/1.HTML/14.HTML table advanced features and accessibility.md",
-    "WEB FRONT_END/1.HTML/13.HTML table basics.md",
-    "WEB FRONT_END/1.HTML/12.Responsive images.md",
-    "WEB FRONT_END/1.HTML/11.Adding vector graphics to the web.md",
-    "WEB FRONT_END/1.HTML/10.Frome object to iframe--other embedding technologies.md",
-    "WEB FRONT_END/1.HTML/9.Video and audio on the web.md",
-    "WEB FRONT_END/1.HTML/8.Images in HTML.md",
-    "WEB FRONT_END/1.HTML/7.Debugging HTML.md",
-    "WEB FRONT_END/1.HTML/6.Document and website structure.md",
-    "WEB FRONT_END/1.HTML/5.Advanced text formatting.md",
-    "img/14.HTML table advanced features and accessibility-20230907222123.png",
-    "img/Git-20230907222050.png",
-    "img/Pastedimage20230717163038.png",
-    "img/docusaurus-20230907221212.png",
-    "img/2.Metadata-20230907221253.png",
-    "img/Pastedimage20230724135845.png",
-    "img/Pastedimage20230724135205.png",
-    "img/docusaurus-20230907220444.png",
-    "img/docusaurus-20230907220431.png",
-    "img/docusaurus-2023090722.png",
     "img",
     "新建文件夹",
     "what"
