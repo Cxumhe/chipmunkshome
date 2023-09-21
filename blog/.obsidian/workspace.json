@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "6f748941ef4e85c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a320296c34cf3afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deec92f58e1f4186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开始用blog啦.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec360be1c402cadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开始用blog啦.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33ea45dce5d05c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开始用blog啦.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3c59fff0edf7995",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d04cc33491a26b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a8dc2e50e32cf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78a6bd8981048459",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf728d04bf5b82e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a6ea213ec701b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3472b3ec26239f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ace73a5412bb21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开始用blog啦.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9af33f84834c43e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "开始用blog啦.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3aa3acfff91d839",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a58f5eb2e057f961",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "开始用blog啦.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f6a8dc2e50e32cf5",
+  "lastOpenFiles": [
+    "不知道了.md",
+    "666.md",
+    "开始用blog啦.md",
+    "Template/模板1.md",
+    "Template/2019-05-29-long-blog-post.md",
+    "2023-09-22-.md",
+    "Template/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "2023-09-23-有没有心意.md",
+    "2023-09-22-继续启动.md",
+    "2023-09-21-原神，启动！.md",
+    "Template/2019-05-28-first-blog-post.md",
+    "Template/2021-08-26-welcome/index.md",
+    "Template/2021-08-26-welcome",
+    "Template/2019-05-28-first-blog-post.txt",
+    "感觉很奇怪.md",
+    "2023-09-21-又是新的一天.md",
+    "202309211017.md",
+    "Template/2021-08-01-mdx-blog-post.mdx",
+    "Template",
+    "2021-08-26-welcome/index.md",
+    "2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "2023-09-22-感觉有东西.md",
+    "有点怪.md",
+    "2019-05-29-long-blog-post.md",
+    "新建文件夹",
+    "2019-05-28-first-blog-post.md",
+    "未命名.canvas",
+    "2023-09-21.md"
+  ]
+}

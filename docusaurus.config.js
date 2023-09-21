@@ -54,7 +54,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-            blogSidebarTitle: '全部文章',
+            blogSidebarTitle: '近期blog',
+            include: ['*.{md,mdx}'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
