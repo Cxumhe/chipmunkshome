@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec360be1c402cadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开始用blog啦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ea45dce5d05c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开始用blog啦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,9 +148,22 @@
   },
   "active": "f6a8dc2e50e32cf5",
   "lastOpenFiles": [
+    "_Template/模板1.md",
+    "开始用blog啦.md",
+    "2019-05-29-long-blog-post.md",
+    "2021-08-26-welcome/index.md",
+    "2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "2021-08-26-welcome",
+    "模板1.md",
+    "2021-08-01-mdx-blog-post.mdx",
+    "_Template/2021-08-26-welcome/index.md",
+    "_Template/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
+    "_Template/2021-08-26-welcome",
+    "_Template/2021-08-01-mdx-blog-post.mdx",
+    "_Template/2019-05-29-long-blog-post.md",
+    "_Template",
     "不知道了.md",
     "666.md",
-    "开始用blog啦.md",
     "Template/模板1.md",
     "Template/2019-05-29-long-blog-post.md",
     "2023-09-22-.md",
@@ -192,11 +180,8 @@
     "202309211017.md",
     "Template/2021-08-01-mdx-blog-post.mdx",
     "Template",
-    "2021-08-26-welcome/index.md",
-    "2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
     "2023-09-22-感觉有东西.md",
     "有点怪.md",
-    "2019-05-29-long-blog-post.md",
     "新建文件夹",
     "2019-05-28-first-blog-post.md",
     "未命名.canvas",
