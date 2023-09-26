@@ -8,48 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4291dc822bdaac78",
+            "id": "8775f81c501fe5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VScode快捷键.md",
+                "file": "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b3913e4df228210",
+            "id": "9a9161637d963fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB FRONT_END/CSS控制继承.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "629de9ae02fa3ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB FRONT_END/2.CSS/14.Backgrounds and borders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bfdb2f30c8e0bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB FRONT_END/2.CSS/3.How CSS is structured.md",
+                "file": "Git及各个包管理工具代理配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB FRONT_END/CSS控制继承.md",
+                "file": "Git及各个包管理工具代理配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB FRONT_END/CSS控制继承.md",
+                "file": "Git及各个包管理工具代理配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB FRONT_END/CSS控制继承.md"
+                "file": "Git及各个包管理工具代理配置.md"
               }
             }
           },
@@ -193,47 +169,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b3913e4df228210",
+  "active": "9a9161637d963fcd",
   "lastOpenFiles": [
-    "WEB FRONT_END/2.CSS/图片下面有空白.md",
-    "WEB FRONT_END/CSS控制继承.md",
-    "WEB FRONT_END/2.CSS/15.Handling different text directions.md",
+    "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
+    "Git及各个包管理工具代理配置.md",
+    "2.前端/2.CSS/3.How CSS is structured.md",
+    "2.前端/2.CSS/14.Backgrounds and borders.md",
     "Eclipse批量改变量名.md",
-    "VScode快捷键.md",
-    "WEB FRONT_END/2.CSS/3.How CSS is structured.md",
-    "WEB FRONT_END/2.CSS/14.Backgrounds and borders.md",
-    "img/图片下面有空白-20230918213042.png",
-    "WEB FRONT_END/2.CSS/7.Attribute selectors.md",
-    "WEB FRONT_END/2.CSS/12.Cascade layers.md",
-    "WEB FRONT_END/2.CSS/11.Cascade, specificity, and inheritance.md",
-    "img/图片下面有空白-20230918202253.png",
-    "img/图片下面有空白-20230918202123.png",
-    "WEB FRONT_END/2.CSS/6.Type, class, and ID selectors.md",
-    "WEB FRONT_END/2.CSS/10.Combinators.md",
-    "WEB FRONT_END/2.CSS/8.Pseudo-classes and pseudo-elements.md",
-    "WEB FRONT_END/2.CSS/13.The box model.md",
-    "WEB FRONT_END/2.CSS/9.✳参考节.md",
-    "WEB FRONT_END/1.HTML/8.Images in HTML.md",
-    "WEB FRONT_END/1.HTML/11.Adding vector graphics to the web.md",
-    "Word里添加分节符,文本往后多了一行空格.md",
-    "13.The.md",
-    "img/15.Handling different text directions-20230914230132.png",
-    "img/15.Handling different text directions-20230914230107.png",
-    "img/15.Handling different text directions-20230914230040.png",
-    "工具网站速查.md",
-    "Git.md",
     "Markdown语法.md",
-    "img/14.Backgrounds and borders-20230911224812.png",
-    "img/14.Backgrounds and borders-20230910211852.png",
-    "img/14.Backgrounds and borders-20230910201156.png",
-    "img/14.Backgrounds and borders-20230910201039.png",
-    "WEB FRONT_END/2.CSS/1.What is CSS.md",
+    "UI使用指南.md",
     "vim-cheatsheet.pdf",
     "vim-cheatsheet（备忘单）.md",
-    "vim-cheatsheet.md",
+    "VScode快捷键.md",
+    "Word里添加分节符,文本往后多了一行空格.md",
+    "工具网站速查.md",
+    "docusaurus.md",
+    "1.C/C结构体指针向右箭头的含义，以及取地址符.md",
+    "1.C/C中的整数（short，int，long）.md",
+    "2.前端/2.CSS/17.CSS values and units.md",
+    "2.前端/2.CSS/16.Overflowing content.md",
+    "2.前端/2.CSS/1.What is CSS.md",
+    "2.前端/HTML属性英文缩写速查.md",
+    "img/Pastedimage20230828204316.png",
+    "img/vim-cheatsheet-20230909183010.png",
+    "img/Pastedimage20230724135845.png",
+    "img/Pastedimage20230724135205.png",
+    "img/Pastedimage20230721224055.png",
+    "img/Pastedimage20230717163038.png",
+    "C/C中的整数(short,int,long).md",
+    "img/C中的整数(short,int,long)-20230925125651.png",
+    "img/C中的整数(short,int,long)-20230925125424.png",
+    "1.C",
+    "img/16.Overflowing content-20230924185439.png",
+    "2.前端/2.CSS/15.Handling different text directions.md",
+    "img/15.Handling different text directions-20230924184341.png",
+    "2.前端/CSS控制继承.md",
+    "2.前端/2.CSS/图片下面有空白.md",
+    "2.前端/2.CSS/7.Attribute selectors.md",
+    "2.前端/2.CSS/12.Cascade layers.md",
+    "2.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
     "WEB FRONT_END/vim-cheatsheet.pdf",
     "新建 文本文档.txt",
-    "WEB FRONT_END/HTML空格.md",
     "img",
     "新建文件夹",
     "what"
