@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git及各个包管理工具代理配置.md",
+                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git及各个包管理工具代理配置.md",
+                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git及各个包管理工具代理配置.md",
+                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git及各个包管理工具代理配置.md"
+                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md"
               }
             }
           },
@@ -171,10 +171,36 @@
   },
   "active": "9a9161637d963fcd",
   "lastOpenFiles": [
-    "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
-    "Git及各个包管理工具代理配置.md",
+    "2.前端/2.CSS/20.{}Styling tables.md",
+    "2.前端/2.CSS/21.Fundamental text and font styling.md",
+    "2.前端/2.CSS/18.Sizing items in CSS.md",
+    "2.前端/2.CSS/19.Images, media, and form elements.md",
+    "img/19.Images, media, and form elements-20230928172241.png",
+    "2.前端/1.HTML/12.Responsive images.md",
+    "img/18.Sizing items in CSS-20230928163558.png",
+    "2.前端/1.HTML/14.HTML table advanced features and accessibility.md",
+    "2.前端/2.CSS/1.What is CSS.md",
+    "2.前端/2.CSS/2.Getting started with CSS.md",
     "2.前端/2.CSS/3.How CSS is structured.md",
+    "2.前端/2.CSS/12.Cascade layers.md",
+    "2.前端/2.CSS/13.The box model.md",
     "2.前端/2.CSS/14.Backgrounds and borders.md",
+    "2.前端/2.CSS/15.Handling different text directions.md",
+    "2.前端/2.CSS/16.Overflowing content.md",
+    "2.前端/2.CSS/17.CSS values and units.md",
+    "2.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
+    "img/17.CSS values and units-20230928152626.png",
+    "img/17.CSS values and units-20230928151840.png",
+    "img/17.CSS values and units-20230928151336.png",
+    "img/17.CSS values and units-20230928151312.png",
+    "img/17.CSS values and units-20230928151031.png",
+    "img/17.CSS values and units-20230928150720.png",
+    "img/17.CSS values and units-20230928150405.png",
+    "img/17.CSS values and units-20230928150146.png",
+    "2.前端/2.CSS/5.CSS selectors.md",
+    "2.前端/2.CSS/8.Pseudo-classes and pseudo-elements.md",
+    "Git及各个包管理工具代理配置.md",
+    "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
     "Eclipse批量改变量名.md",
     "Markdown语法.md",
     "UI使用指南.md",
@@ -182,32 +208,7 @@
     "vim-cheatsheet（备忘单）.md",
     "VScode快捷键.md",
     "Word里添加分节符,文本往后多了一行空格.md",
-    "工具网站速查.md",
-    "docusaurus.md",
-    "1.C/C结构体指针向右箭头的含义，以及取地址符.md",
-    "1.C/C中的整数（short，int，long）.md",
-    "2.前端/2.CSS/17.CSS values and units.md",
-    "2.前端/2.CSS/16.Overflowing content.md",
-    "2.前端/2.CSS/1.What is CSS.md",
-    "2.前端/HTML属性英文缩写速查.md",
-    "img/Pastedimage20230828204316.png",
-    "img/vim-cheatsheet-20230909183010.png",
-    "img/Pastedimage20230724135845.png",
-    "img/Pastedimage20230724135205.png",
-    "img/Pastedimage20230721224055.png",
-    "img/Pastedimage20230717163038.png",
-    "C/C中的整数(short,int,long).md",
-    "img/C中的整数(short,int,long)-20230925125651.png",
-    "img/C中的整数(short,int,long)-20230925125424.png",
     "1.C",
-    "img/16.Overflowing content-20230924185439.png",
-    "2.前端/2.CSS/15.Handling different text directions.md",
-    "img/15.Handling different text directions-20230924184341.png",
-    "2.前端/CSS控制继承.md",
-    "2.前端/2.CSS/图片下面有空白.md",
-    "2.前端/2.CSS/7.Attribute selectors.md",
-    "2.前端/2.CSS/12.Cascade layers.md",
-    "2.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
     "WEB FRONT_END/vim-cheatsheet.pdf",
     "新建 文本文档.txt",
     "img",

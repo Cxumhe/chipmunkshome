@@ -99,6 +99,7 @@
 
 .projectTitle {
   position: inherit;
+  text-align: center;
   font-size: 2rem;
   margin-left: auto;
   font-family: 'smileySans';
@@ -106,9 +107,9 @@
 }
 
 .projectTitle  small{
-  font-size: 2rem;
+  font-size: 1rem;
   position: relative;
-  left: 100px;
+  top: 1em;
   font-family: 'smileySans';
 }
 
