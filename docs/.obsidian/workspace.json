@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "45668e2038c7dd31",
+        "id": "27a691f6417c0656",
         "type": "tabs",
         "children": [
           {
@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a9161637d963fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md",
+                "file": "3.前端/2.CSS/✳选择器参考节.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<abbr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md",
+                "file": "3.前端/2.CSS/✳选择器参考节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md",
+                "file": "3.前端/2.CSS/✳选择器参考节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.前端/2.CSS/21.Fundamental text and font styling.md"
+                "file": "3.前端/2.CSS/✳选择器参考节.md"
               }
             }
           },
@@ -169,45 +156,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a9161637d963fcd",
+  "active": "8775f81c501fe5c4",
   "lastOpenFiles": [
-    "2.前端/2.CSS/20.{}Styling tables.md",
-    "2.前端/2.CSS/21.Fundamental text and font styling.md",
-    "2.前端/2.CSS/18.Sizing items in CSS.md",
-    "2.前端/2.CSS/19.Images, media, and form elements.md",
-    "img/19.Images, media, and form elements-20230928172241.png",
-    "2.前端/1.HTML/12.Responsive images.md",
-    "img/18.Sizing items in CSS-20230928163558.png",
-    "2.前端/1.HTML/14.HTML table advanced features and accessibility.md",
-    "2.前端/2.CSS/1.What is CSS.md",
-    "2.前端/2.CSS/2.Getting started with CSS.md",
-    "2.前端/2.CSS/3.How CSS is structured.md",
-    "2.前端/2.CSS/12.Cascade layers.md",
-    "2.前端/2.CSS/13.The box model.md",
-    "2.前端/2.CSS/14.Backgrounds and borders.md",
-    "2.前端/2.CSS/15.Handling different text directions.md",
-    "2.前端/2.CSS/16.Overflowing content.md",
-    "2.前端/2.CSS/17.CSS values and units.md",
-    "2.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
-    "img/17.CSS values and units-20230928152626.png",
-    "img/17.CSS values and units-20230928151840.png",
-    "img/17.CSS values and units-20230928151336.png",
-    "img/17.CSS values and units-20230928151312.png",
-    "img/17.CSS values and units-20230928151031.png",
-    "img/17.CSS values and units-20230928150720.png",
-    "img/17.CSS values and units-20230928150405.png",
-    "img/17.CSS values and units-20230928150146.png",
-    "2.前端/2.CSS/5.CSS selectors.md",
-    "2.前端/2.CSS/8.Pseudo-classes and pseudo-elements.md",
-    "Git及各个包管理工具代理配置.md",
-    "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
-    "Eclipse批量改变量名.md",
-    "Markdown语法.md",
-    "UI使用指南.md",
-    "vim-cheatsheet.pdf",
-    "vim-cheatsheet（备忘单）.md",
-    "VScode快捷键.md",
+    "3.前端/MDN浏览器支持框里面的数字是什么意思.md",
+    "3.前端/2.CSS/28.Grids.md",
+    "3.前端/2.CSS/27.Flexbox.md",
+    "3.前端/2.CSS/✳选择器参考节.md",
+    "3.前端/2.CSS/5.CSS selectors.md",
+    "3.前端/2.CSS/7.Attribute selectors.md",
+    "3.前端/2.CSS/6.Type, class, and ID selectors.md",
+    "3.前端/2.CSS/9.✳参考节.md",
+    "img/27.Flexbox-20231004144745.png",
+    "img/27.Flexbox-20231004142827.png",
     "Word里添加分节符,文本往后多了一行空格.md",
+    "VScode快捷键.md",
+    "vim-cheatsheet（备忘单）.md",
+    "vim-cheatsheet.pdf",
+    "UI使用指南.md",
+    "Markdown语法.md",
+    "Git及各个包管理工具代理配置.md",
+    "Eclipse批量改变量名.md",
+    "docusaurus.md",
+    "工具网站速查.md",
+    "2.JAVA/JAVA.md",
+    "3.前端/2.CSS/25.Introduction to CSS layout.md",
+    "3.前端/2.CSS/26.Normal Flow.md",
+    "未命名.md",
+    "img/25.Introduction to CSS layout-20231004101908.png",
+    "img/25.Introduction to CSS layout-20231004095009.png",
+    "img/25.Introduction to CSS layout-20231004094742.png",
+    "img/25.Introduction to CSS layout-20231004092120.png",
+    "img/25.Introduction to CSS layout-20231004092100.png",
+    "3.前端/2.CSS/23.Styling links.md",
+    "3.前端/2.CSS/22.Styling lists.md",
+    "3.前端/2.CSS/21.Fundamental text and font styling.md",
+    "3.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
+    "3.前端/2.CSS/10.Combinators.md",
+    "img/24.Web fonts-20231001193147.png",
+    "img/MDN浏览器支持框里面的数字是什么意思-20231001164032.png",
+    "img/23.Styling links-20231001141609.png",
+    "2.JAVA",
     "1.C",
     "WEB FRONT_END/vim-cheatsheet.pdf",
     "新建 文本文档.txt",

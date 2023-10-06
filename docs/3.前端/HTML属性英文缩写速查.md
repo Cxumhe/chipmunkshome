@@ -16,3 +16,6 @@ Carbon copy  Blind Carbon copy
 cite = citations
 
 `colspan`和`rowspan`属性 colspan =colume span
+
+一个单位：`em`和`rem`=root em
+

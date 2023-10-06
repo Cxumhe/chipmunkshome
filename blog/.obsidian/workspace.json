@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "6f748941ef4e85c9",
+    "id": "b590a802e93c6954",
     "type": "split",
     "children": [
       {
-        "id": "a320296c34cf3afe",
+        "id": "27a691f6417c0656",
         "type": "tabs",
         "children": [
           {
-            "id": "deec92f58e1f4186",
+            "id": "8775f81c501fe5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开始用blog啦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e876b49bc31bae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "今天学c.md",
+                "file": "技术互联网精神.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a3c59fff0edf7995",
+    "id": "5e8323e2b93dc300",
     "type": "split",
     "children": [
       {
-        "id": "6d04cc33491a26b7",
+        "id": "9adbef0ddb96b211",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a8dc2e50e32cf5",
+            "id": "5f9e34d3c62386c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +43,12 @@
             }
           },
           {
-            "id": "78a6bd8981048459",
+            "id": "65e8f12ce434a4d9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<abbr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "cf728d04bf5b82e3",
+            "id": "d4f4105d52db9f3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
-    "id": "9a6ea213ec701b1e",
+    "id": "5dca35a0a12f6793",
     "type": "split",
     "children": [
       {
-        "id": "0a3472b3ec26239f",
+        "id": "fc1671cd81d53460",
         "type": "tabs",
         "children": [
           {
-            "id": "12ace73a5412bb21",
+            "id": "be4378200ff0514f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开始用blog啦.md",
+                "file": "技术互联网精神.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "9af33f84834c43e4",
+            "id": "6d627ad0fcc14bbd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开始用blog啦.md",
+                "file": "技术互联网精神.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a3aa3acfff91d839",
+            "id": "73dba7b8066c60df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,22 @@
             }
           },
           {
-            "id": "a58f5eb2e057f961",
+            "id": "d0765030c6b86daf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "开始用blog啦.md"
+                "file": "技术互联网精神.md"
+              }
+            }
+          },
+          {
+            "id": "aebea02e5e5ac510",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -158,46 +156,51 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "deec92f58e1f4186",
+  "active": "8775f81c501fe5c4",
   "lastOpenFiles": [
-    "今天学c.md",
-    "开始用blog啦.md",
-    "_Template/模板1.md",
-    "2019-05-29-long-blog-post.md",
-    "2021-08-26-welcome/index.md",
-    "2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
-    "2021-08-26-welcome",
-    "模板1.md",
-    "2021-08-01-mdx-blog-post.mdx",
-    "_Template/2021-08-26-welcome/index.md",
-    "_Template/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
-    "_Template/2021-08-26-welcome",
-    "_Template/2021-08-01-mdx-blog-post.mdx",
-    "_Template/2019-05-29-long-blog-post.md",
-    "_Template",
-    "不知道了.md",
-    "666.md",
-    "Template/模板1.md",
-    "Template/2019-05-29-long-blog-post.md",
-    "2023-09-22-.md",
-    "Template/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
-    "2023-09-23-有没有心意.md",
-    "2023-09-22-继续启动.md",
-    "2023-09-21-原神，启动！.md",
-    "Template/2019-05-28-first-blog-post.md",
-    "Template/2021-08-26-welcome/index.md",
-    "Template/2021-08-26-welcome",
-    "Template/2019-05-28-first-blog-post.txt",
-    "感觉很奇怪.md",
-    "2023-09-21-又是新的一天.md",
-    "202309211017.md",
-    "Template/2021-08-01-mdx-blog-post.mdx",
-    "Template",
-    "2023-09-22-感觉有东西.md",
-    "有点怪.md",
+    "img/技术互联网精神-20231001221438.png",
+    "img/技术互联网精神-20231001221311.png",
+    "技术互联网精神.md",
+    "img/技术互联网精神-20231001221218.png",
+    "img/技术互联网精神-20231001221143.png",
+    "Pasted image 20231001220920.png",
+    "Gravatar.md",
+    "Markdown语法.md",
+    "3.前端/2.CSS/24.Web fonts.md",
+    "img/24.Web fonts-20231001193147.png",
+    "3.前端/MDN浏览器支持框里面的数字是什么意思.md",
+    "img/MDN浏览器支持框里面的数字是什么意思-20231001164032.png",
+    "3.前端/2.CSS/23.Styling links.md",
+    "img/23.Styling links-20231001141609.png",
+    "img/23.Styling links-20231001141157.png",
+    "img/23.Styling links-20231001135035.png",
+    "img/23.Styling links-20231001134813.png",
+    "3.前端/1.HTML/5.Advanced text formatting.md",
+    "3.前端/2.CSS/21.Fundamental text and font styling.md",
+    "3.前端/2.CSS/22.Styling lists.md",
+    "3.前端/2.CSS/17.CSS values and units.md",
+    "3.前端/HTML属性英文缩写速查.md",
+    "3.前端/HTML标签语义英文缩写速查.md",
+    "3.前端/HTML空格.md",
+    "2.JAVA/JAVA.md",
+    "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
+    "3.前端/2.CSS/图片下面有空白.md",
+    "工具网站速查.md",
+    "3.前端/2.CSS/20.{未更新}Styling tables.md",
+    "1.C/C结构体指针向右箭头的含义，以及取地址符.md",
+    "2.JAVA",
+    "1.C/深入C中的整数（short，int，long）.md",
+    "3.前端/2.CSS/18.Sizing items in CSS.md",
+    "3.前端/2.CSS/19.Images, media, and form elements.md",
+    "3.前端/1.HTML/12.Responsive images.md",
+    "3.前端/1.HTML/14.HTML table advanced features and accessibility.md",
+    "3.前端/2.CSS/1.What is CSS.md",
+    "vim-cheatsheet.pdf",
+    "1.C",
+    "WEB FRONT_END/vim-cheatsheet.pdf",
+    "新建 文本文档.txt",
+    "img",
     "新建文件夹",
-    "2019-05-28-first-blog-post.md",
-    "未命名.canvas",
-    "2023-09-21.md"
+    "what"
   ]
 }
