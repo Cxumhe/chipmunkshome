@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.前端/2.CSS/✳选择器参考节.md",
+                "file": "3.前端/2.CSS/28.Grids.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.前端/2.CSS/✳选择器参考节.md",
+                "file": "3.前端/2.CSS/28.Grids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.前端/2.CSS/✳选择器参考节.md",
+                "file": "3.前端/2.CSS/28.Grids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.前端/2.CSS/✳选择器参考节.md"
+                "file": "3.前端/2.CSS/28.Grids.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "8775f81c501fe5c4",
   "lastOpenFiles": [
-    "3.前端/MDN浏览器支持框里面的数字是什么意思.md",
-    "3.前端/2.CSS/28.Grids.md",
-    "3.前端/2.CSS/27.Flexbox.md",
     "3.前端/2.CSS/✳选择器参考节.md",
+    "3.前端/2.CSS/28.Grids.md",
+    "3.前端/2.CSS/19.Images, media, and form elements.md",
+    "3.前端/2.CSS/27.Flexbox.md",
+    "3.前端/MDN浏览器支持框里面的数字是什么意思.md",
     "3.前端/2.CSS/5.CSS selectors.md",
     "3.前端/2.CSS/7.Attribute selectors.md",
     "3.前端/2.CSS/6.Type, class, and ID selectors.md",
@@ -191,7 +192,6 @@
     "3.前端/2.CSS/22.Styling lists.md",
     "3.前端/2.CSS/21.Fundamental text and font styling.md",
     "3.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
-    "3.前端/2.CSS/10.Combinators.md",
     "img/24.Web fonts-20231001193147.png",
     "img/MDN浏览器支持框里面的数字是什么意思-20231001164032.png",
     "img/23.Styling links-20231001141609.png",
