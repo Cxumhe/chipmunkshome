@@ -13,7 +13,7 @@
 `<dd>`description definition描述定义  
 `<blockquote>`  
 `<q>` inline quotations  
-`<abbr>` abbreviations  
+`<abbr>` abbreviations  缩写
 `<sup>` superscript  
 `<sub>` subscript  
 `<code>`  
