@@ -8,6 +8,8 @@
 
 [《C语言运算符100例》优先级面试错题_c语言运算符优先级题目-CSDN博客](https://blog.csdn.net/WhereIsHeroFrom/article/details/118594921)
 
+运算符的结合性指的是当有相同优先级的运算符出现时，运算符怎么结合。
+
 例题43
 ```c
 #include <stdio.h>
