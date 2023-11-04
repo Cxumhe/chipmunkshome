@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
+                "file": "2.JAVA/初始化块.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
+                "file": "2.JAVA/初始化块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
+                "file": "2.JAVA/初始化块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.C/关于输入的斜杠0和斜杠n还有EOF.md"
+                "file": "2.JAVA/初始化块.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c6ff5b74494db26c",
+  "active": "5f9e34d3c62386c9",
   "lastOpenFiles": [
+    "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
     "1.C/一些杂项知识点.md",
     "1.C/深入C中的整数（short，int，long）.md",
     "1.C/哈夫曼树.md",
     "img/哈夫曼树-20231102203844.png",
-    "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
     "1.C/函数参数的结构体指针返回值问题.md",
     "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
     "1.C/C结构体指针向右箭头的含义，以及取地址符.md",
