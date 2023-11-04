@@ -1,12 +1,14 @@
 `p->next`
-
+```
 struct LinkNode {
   int num;
   struct LinkNode* next;
 }
 
-`p->next->next`
+```
 
+`p->next->next`
+```
 struct LinkNode {
   int num;
   struct LinkNode* --struct LinkNode {
@@ -14,6 +16,8 @@ struct LinkNode {
 									struct LinkNode* next;
 								}
 }
+```
+
 
 ![](../img/关于链表的next到底是什么-20231009210446.png)
 

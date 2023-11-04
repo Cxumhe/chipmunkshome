@@ -153,7 +153,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cxumhe,此网站由Docusaurus构建`,
+        copyright: `Copyright © ${new Date().getFullYear()} Cxumhe`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.JAVA/初始化块.md",
+                "file": "3.前端/1.HTML/1.HTML start here.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.JAVA/初始化块.md",
+                "file": "3.前端/1.HTML/1.HTML start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.JAVA/初始化块.md",
+                "file": "3.前端/1.HTML/1.HTML start here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.JAVA/初始化块.md"
+                "file": "3.前端/1.HTML/1.HTML start here.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "5f9e34d3c62386c9",
   "lastOpenFiles": [
+    "1.C/深入C中的整数（short，int，long）.md",
+    "1.C/关于链表的next到底是什么.md",
+    "2.JAVA/初始化块.md",
     "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
     "1.C/一些杂项知识点.md",
-    "1.C/深入C中的整数（short，int，long）.md",
     "1.C/哈夫曼树.md",
     "img/哈夫曼树-20231102203844.png",
     "1.C/函数参数的结构体指针返回值问题.md",
@@ -170,7 +172,6 @@
     "1.C/C语言运算符优先级.md",
     "1.C/C中，两个指针相减的意义.md",
     "1.C/pow(f1(),f2())函数参数调用顺序.md",
-    "1.C/关于链表的next到底是什么.md",
     "5.数据结构/1.二叉树.md",
     "LF和CRLF.md",
     "docusaurus.md",
