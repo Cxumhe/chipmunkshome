@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b590a802e93c6954",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a691f6417c0656",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ff5b74494db26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.前端/1.HTML/1.HTML start here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8323e2b93dc300",
+    "type": "split",
+    "children": [
+      {
+        "id": "9adbef0ddb96b211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f9e34d3c62386c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65e8f12ce434a4d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4f4105d52db9f3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "5dca35a0a12f6793",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1671cd81d53460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4378200ff0514f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.前端/1.HTML/1.HTML start here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d627ad0fcc14bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.前端/1.HTML/1.HTML start here.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73dba7b8066c60df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0765030c6b86daf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.前端/1.HTML/1.HTML start here.md"
+              }
+            }
+          },
+          {
+            "id": "aebea02e5e5ac510",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c6ff5b74494db26c",
+  "lastOpenFiles": [
+    "1.C/波兰表达式.md",
+    "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
+    "1.C/关于链表的next到底是什么.md",
+    "1.C/pow(f1(),f2())函数参数调用顺序.md",
+    "字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+    "字的概念.md",
+    "Git及各个包管理工具代理配置.md",
+    "3.前端/1.HTML/1.HTML start here.md",
+    "1.C/深入C中的整数（short，int，long）.md",
+    "2.JAVA/初始化块.md",
+    "1.C/一些杂项知识点.md",
+    "1.C/哈夫曼树.md",
+    "img/哈夫曼树-20231102203844.png",
+    "1.C/函数参数的结构体指针返回值问题.md",
+    "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
+    "1.C/C结构体指针向右箭头的含义，以及取地址符.md",
+    "1.C/C实现单链表反转.md",
+    "1.C/C语言运算符优先级.md",
+    "1.C/C中，两个指针相减的意义.md",
+    "5.数据结构/1.二叉树.md",
+    "LF和CRLF.md",
+    "docusaurus.md",
+    "Eclipse批量改变量名.md",
+    "Ctrl+Z的反快捷键是Ctrl+Y.md",
+    "工具以及工具网站速查.md",
+    "Markdown语法.md",
+    "UI使用指南.md",
+    "img/初始化块-20231026204402.png",
+    "5.数据结构",
+    "img/3.JS加载性能优化之script标签到底放在哪-20231024090822.png",
+    "img/3.JS加载性能优化之script标签到底放在哪-20231023163121.png",
+    "img/31.Multiple-column layout-20231019204113.png",
+    "3.前端/3.JavaScript",
+    "img/函数参数调用顺序-20231013180120.png",
+    "img/v2-1a27d85e5a3568dc3c2b05f9d7a4ac2c_1440w.webp",
+    "img/C语言运算符优先级-20231011225746.png",
+    "img/C语言运算符优先级-20231011225738.png",
+    "img/30.Positioning-20231010215453.png",
+    "vim-cheatsheet.pdf",
+    "2.JAVA",
+    "1.C",
+    "WEB FRONT_END/vim-cheatsheet.pdf",
+    "新建 文本文档.txt",
+    "img",
+    "新建文件夹",
+    "what"
+  ]
+}
