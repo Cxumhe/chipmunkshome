@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6ff5b74494db26c",
+            "id": "8a9080874fa458dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.前端/1.HTML/1.HTML start here.md",
+                "file": "3.前端/2.CSS/27.Flexbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "428dda496362d4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.前端/2.CSS/23.Styling links.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "align",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.前端/1.HTML/1.HTML start here.md",
+                "file": "3.前端/2.CSS/27.Flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.前端/1.HTML/1.HTML start here.md",
+                "file": "3.前端/2.CSS/27.Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.前端/1.HTML/1.HTML start here.md"
+                "file": "3.前端/2.CSS/27.Flexbox.md"
               }
             }
           },
@@ -156,35 +169,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c6ff5b74494db26c",
+  "active": "65e8f12ce434a4d9",
   "lastOpenFiles": [
-    "1.C/波兰表达式.md",
-    "1.C/关于输入的斜杠0和斜杠n还有EOF.md",
-    "1.C/关于链表的next到底是什么.md",
-    "1.C/pow(f1(),f2())函数参数调用顺序.md",
-    "字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
-    "字的概念.md",
-    "Git及各个包管理工具代理配置.md",
-    "3.前端/1.HTML/1.HTML start here.md",
-    "1.C/深入C中的整数（short，int，long）.md",
-    "2.JAVA/初始化块.md",
-    "1.C/一些杂项知识点.md",
-    "1.C/哈夫曼树.md",
-    "img/哈夫曼树-20231102203844.png",
-    "1.C/函数参数的结构体指针返回值问题.md",
+    "3.前端/2.CSS/3.How CSS is structured.md",
+    "3.前端/1.HTML/4.Creating hyperlinks.md",
+    "3.前端/2.CSS/1.What is CSS.md",
     "1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
-    "1.C/C结构体指针向右箭头的含义，以及取地址符.md",
-    "1.C/C实现单链表反转.md",
-    "1.C/C语言运算符优先级.md",
-    "1.C/C中，两个指针相减的意义.md",
-    "5.数据结构/1.二叉树.md",
-    "LF和CRLF.md",
-    "docusaurus.md",
-    "Eclipse批量改变量名.md",
-    "Ctrl+Z的反快捷键是Ctrl+Y.md",
+    "字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+    "Chromium，V8，Blink，Gecko，Webkit之间的区别.md",
+    "Chromium,V8,Blink,Gecko,Webkit之间的区别.md",
+    "3.前端/2.CSS/21.Fundamental text and font styling.md",
+    "3.前端/2.CSS/24.Web fonts.md",
     "工具以及工具网站速查.md",
-    "Markdown语法.md",
-    "UI使用指南.md",
+    "3.前端/2.CSS/23.Styling links.md",
+    "3.前端/HTML属性英文缩写速查.md",
+    "3.前端/HTML标签语义英文缩写速查.md",
+    "Ctrl+Z的反快捷键是Ctrl+Y.md",
+    "docusaurus.md",
+    "字的概念.md",
+    "3.前端/3.JavaScript/11.Drawing graphics.md",
+    "3.前端/2.CSS/19.Images, media, and form elements.md",
+    "3.前端/2.CSS/13.The box model.md",
+    "3.前端/2.CSS/14.Backgrounds and borders.md",
+    "3.前端/2.CSS/15.Handling different text directions.md",
+    "3.前端/2.CSS/16.Overflowing content.md",
+    "3.前端/2.CSS/18.Sizing items in CSS.md",
+    "3.前端/2.CSS/17.CSS values and units.md",
+    "3.前端/2.CSS/20.{未更新}Styling tables.md",
+    "3.前端/2.CSS/22.Styling lists.md",
+    "img/哈夫曼树-20231102203844.png",
     "img/初始化块-20231026204402.png",
     "5.数据结构",
     "img/3.JS加载性能优化之script标签到底放在哪-20231024090822.png",

@@ -3,10 +3,17 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
- @font-face {
-  font-family: 'smileySans';
-  src: url('SmileySans-Oblique.ttf');
+
+@font-face {
+  font-family: 'brandFont';
+  src: url('../fonts/Almarai-Regular.ttf');
 }
+
+@font-face {
+  font-family: 'indexFont';
+  src: url('../fonts/Sora-VariableFont_wght.ttf');
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #f26b00;
@@ -33,6 +40,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+:root {
+  --doc-sidebar-width: 250px !important;
+}
+
 .header-Github-link:before {
   content: '';
   width: 24px;
@@ -51,18 +62,64 @@
 }
 
 .navbar .navbar__title {
-  font-weight: lighter;
+  font-family: "indexFont", sans-serif;
   font-size: 1.2rem;
-  margin-left: 12px;
+  font-weight: 400;
+  margin-left: 8px;
+  margin-top: 2px;
   color: #a94b00;
-  font-family: 'smileySans';
+  /* font-family: 'smileySans'; */
 }
 
-h2.hero__title, h2.hero__subtitle{
-  position: inherit;
-  text-align: center;
-  font-size: 2rem;
-  margin-left: auto;
-  font-family: 'smileySans';
-  font-weight: lighter;
+.navbar {
+  justify-content: center;
+}
+
+.navbar__inner {
+  max-width: 1400px;
+}
+
+.navbar__items--right {
+  font-size: .875rem;
+  font-family: "indexFont", sans-serif;
+}
+
+.navbar__brand:hover {
+  opacity: 0.8;
+}
+
+@media (min-width: 1420px) {
+  .main-wrapper {
+    align-items: center;
+    /* 因为flex-direction默认是row，但是docusaurus默认是column，所以逻辑要反过来 */
+    /* justify-content: center; */
+  }
+  .docsWrapper_node_modules--pnpm-\@docusaurus\+theme-classic\@3-0-0_\@types\+react\@18-2-34_react-dom\@18-2-0_react\@18-2-0_typescript\@5-2-2-node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
+    width: 1400px;
+  }
+}
+
+.menu {
+  overflow: hidden;
+}
+
+.menu:hover {
+  overflow-y: scroll;
+}
+
+h1 {
+  font-size: 30px;
+  border-bottom: hsla(0,0%,90%,.7) solid 1px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.title_node_modules--pnpm-\@docusaurus\+theme-classic\@3-0-0_\@types\+react\@18-2-34_react-dom\@18-2-0_react\@18-2-0_typescript\@5-2-2-node_modules-\@docusaurus-theme-classic-lib-theme-BlogPostItem-Header-Title-styles-module {
+  font-size: 1.875rem !important;
+}
+
+.container {
+  
 }

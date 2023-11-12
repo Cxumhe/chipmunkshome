@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '花栗鼠的小屋',
-  tagline: 'Working in Progress',
+  title: "Hi,I'm Pi Chen.",
+  tagline: 'A ambitious full-stack learner.',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
@@ -69,7 +69,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '花栗鼠不吃爆米',
+        title: 'Chipmunks Home',
         logo: {
           alt: 'Logo',
           src: 'img/logo.png',
@@ -79,14 +79,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'right',
-            label: '✏️ 笔记',
+            label: 'Note',
           },
-          {to: '/blog', label: '🤯 想法', position: 'right'},
+          {to: '/blog', label: 'Thinking', position: 'right'},
           {
-            to: '/esssay', label: '📜 文章', position: 'right'
+            to: '/esssay', label: 'Essay', position: 'right'
           },
           {
-            href: 'https://travellings.link', label: '🚅 开往', position: 'right'
+            href: 'https://travellings.link', label: 'Portal', position: 'right'
           },
           {
             href: 'https://github.com/Cxumhe',
