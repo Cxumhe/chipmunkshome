@@ -94,7 +94,7 @@
     /* 因为flex-direction默认是row，但是docusaurus默认是column，所以逻辑要反过来 */
     /* justify-content: center; */
   }
-  div[class*="docsWrapper_node_modules"] {
+  div[class*="docsWrapper"] {
     width: 1400px;
   }
 }
@@ -116,7 +116,7 @@ h2 {
   font-size: 24px;
 }
 
-h2[class*="title_node_modules"] {
+h2[class*="title"] {
   font-size: 1.875rem;
 }
 
