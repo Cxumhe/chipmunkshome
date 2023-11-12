@@ -94,7 +94,7 @@
     /* 因为flex-direction默认是row，但是docusaurus默认是column，所以逻辑要反过来 */
     /* justify-content: center; */
   }
-  .docsWrapper_node_modules--pnpm-\@docusaurus\+theme-classic\@3-0-0_\@types\+react\@18-2-34_react-dom\@18-2-0_react\@18-2-0_typescript\@5-2-2-node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
+  div[class*="docsWrapper_node_modules"] {
     width: 1400px;
   }
 }
@@ -116,8 +116,8 @@ h2 {
   font-size: 24px;
 }
 
-.title_node_modules--pnpm-\@docusaurus\+theme-classic\@3-0-0_\@types\+react\@18-2-34_react-dom\@18-2-0_react\@18-2-0_typescript\@5-2-2-node_modules-\@docusaurus-theme-classic-lib-theme-BlogPostItem-Header-Title-styles-module {
-  font-size: 1.875rem !important;
+h2[class*="title_node_modules"] {
+  font-size: 1.875rem;
 }
 
 .container {
