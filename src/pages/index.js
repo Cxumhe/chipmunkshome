@@ -12,7 +12,7 @@ import IndexDesk from '@site/static/img/indexDesk.svg';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner, styles.heroPrimary)}>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={clsx(styles.container)}>
         <div className={clsx("slogan", styles.slogan)}>
           <div className={clsx(styles.blogVersion)}>
@@ -39,7 +39,7 @@ function HomepageHeader() {
         {/* <h2 className="hero__subtitle">{siteConfig.tagline}</h2> */}
       </div>
       <div>
-        <IndexDesk alt="indexDesk" className={styles.indexDesk} />
+        <IndexDesk alt="indexDesk" className={clsx(styles.indexDesk)} />
       </div>
     </header>
   );
