@@ -88,14 +88,14 @@
   opacity: 0.8;
 }
 
-@media (min-width: 1420px) {
+@media (min-width: 1437px) {
   .main-wrapper {
     align-items: center;
     /* 因为flex-direction默认是row，但是docusaurus默认是column，所以逻辑要反过来 */
     /* justify-content: center; */
   }
   div[class*="docsWrapper"] {
-    width: 1400px;
+    width: 1422px;
   }
 }
 
