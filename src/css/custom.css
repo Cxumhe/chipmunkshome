@@ -187,6 +187,16 @@ h2[class*="title"] {
     height: calc(196.125px + 50px);
   } */
 
+  .col {
+    margin: 0 !important;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  /* .footer {
+    height: calc(196.125px + 50px);
+  } */
+
   .footer__item:nth-child(2) {
     display: none;
   }
