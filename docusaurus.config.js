@@ -99,50 +99,18 @@ const config = {
         style: 'light',
         links: [
           {
-            title: '本站',
+            title: ' ',
             items: [
               {
-                label: '笔记',
-                to: '/docs/UI使用指南',
+                html: `<a href='https://docusaurus.io/' target='_blank'><img class="atelier-union" src="/img/atelier-union.svg" alt="" /></a>`,
               },
               {
-                label: '博客',
-                to: '/blog',
-              },
-              {
-                label: '文章',
-                to: '/essay',
-              },
-            ],
-          },
-          {
-            title: '我的',
-            items: [
-              {
-                label: 'Steam',
-                href: 'https://steamcommunity.com/id/Cxumhe/',
-              },
-              {
-                label: 'Github',
-                href: 'https://github.com/Cxumhe',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: '更多',
-            items: [
-              {
-                label: '...',
-                to: '/',
+                html: `<div class="buildwith__title">Powered by</div><a style="display: flex; justify-content: center;" href='https://docusaurus.io/' target='_blank'><img class="buildwith" src="/img/buildwith1.png" alt="" /></a>`,
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cxumhe`,
+        copyright: `@${new Date().getFullYear()} Cxumhe. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
@@ -156,8 +124,10 @@ const config = {
         apiKey: '0ee3e10d11e8771ed9a36cbc449ff6d0',
   
         indexName: 'cxumhe',
-  
+        
+
       },
+
     }),
 };
 
