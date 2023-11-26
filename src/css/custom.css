@@ -192,6 +192,6 @@ h2[class*="title"] {
   }
 
   .col {
-    margin: 0;
+    margin: 0 !important;
   }
 }
