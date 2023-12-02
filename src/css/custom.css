@@ -102,6 +102,7 @@
   .footer__item:nth-child(2) {
     position: absolute;
     inset: unset;
+    right: 1rem;
     top: calc((100.125px - 50px) / 2) !important;
   }
 
