@@ -122,6 +122,7 @@ h2[class*="title"] {
 
 .footer {
   padding: 48px 0;
+  position: relative;
 }
 
 .footer__title {
@@ -178,8 +179,9 @@ h2[class*="title"] {
 }
 
 .footer__item:nth-child(2) {
-  position: relative;
-  top: calc((100.125px - 50px) / 2);
+  position: absolute;
+  right: 1rem;
+  top: calc((196.13px - 50px) / 2);
 }
 
 @media screen and (max-width: 997px) {
@@ -193,12 +195,15 @@ h2[class*="title"] {
 }
 
 @media screen and (max-width: 769px) {
-  /* .footer {
+  .footer {
     height: calc(196.125px + 50px);
-  } */
+  }
 
   .footer__item:nth-child(2) {
-    display: none;
+    position: absolute;
+    inset: unset;
+    left: 1rem;
+    bottom: calc(50px - 1rem);
   }
 
   .col {
