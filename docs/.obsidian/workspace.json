@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eclipse批量改变量名.md",
+                "file": "3.前端/2.CSS/23.Styling links.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "love ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eclipse批量改变量名.md",
+                "file": "3.前端/2.CSS/23.Styling links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eclipse批量改变量名.md",
+                "file": "3.前端/2.CSS/23.Styling links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eclipse批量改变量名.md"
+                "file": "3.前端/2.CSS/23.Styling links.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "428dda496362d4c0",
   "lastOpenFiles": [
+    "Eclipse批量改变量名.md",
     "3.前端/2.CSS/图片下面有空白.md",
     "3.前端/2.CSS/CSS属性速记.md",
     "2.JAVA/Enhanced for loop in JAVA.md",
@@ -183,7 +185,6 @@
     "3.前端/1.HTML/6.Document and website structure.md",
     "3.前端/1.HTML/11.Adding vector graphics to the web.md",
     "3.前端/1.HTML/8.Images in HTML.md",
-    "3.前端/2.CSS/18.Sizing items in CSS.md",
     "img/哈夫曼树-20231102203844.png",
     "img/初始化块-20231026204402.png",
     "5.数据结构",

@@ -146,7 +146,6 @@ h2[class*="title"] {
 }
 
 .container {
-  margin: auto;
   max-width: 1432px !important;
   padding: 0;
 }
