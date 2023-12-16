@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "091040987242d65a",
+    "id": "b590a802e93c6954",
     "type": "split",
     "children": [
       {
-        "id": "83f9f7125e94e011",
+        "id": "27a691f6417c0656",
         "type": "tabs",
         "children": [
           {
-            "id": "f62ee6591de6eb9d",
+            "id": "2ee207d872bc2c16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.前卫摇滚/电吉他学习路线.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "420904e5dd9fb2ea",
+    "id": "5e8323e2b93dc300",
     "type": "split",
     "children": [
       {
-        "id": "952cd6394a677ce2",
+        "id": "9adbef0ddb96b211",
         "type": "tabs",
         "children": [
           {
-            "id": "2c959c423c0110d4",
+            "id": "5f9e34d3c62386c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "6c43e0c16c77cd9f",
+            "id": "65e8f12ce434a4d9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "a75f43c914923965",
+            "id": "d4f4105d52db9f3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
-    "id": "7e1628f90b418c52",
+    "id": "5dca35a0a12f6793",
     "type": "split",
     "children": [
       {
-        "id": "984d4ba33ec18469",
+        "id": "fc1671cd81d53460",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae900847927d832",
+            "id": "be4378200ff0514f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.前卫摇滚/电吉他学习路线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "aff4ab906442e2a9",
+            "id": "6d627ad0fcc14bbd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.前卫摇滚/电吉他学习路线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "053e36fb09de6bb8",
+            "id": "73dba7b8066c60df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +114,20 @@
             }
           },
           {
-            "id": "b9646b61282428fb",
+            "id": "d0765030c6b86daf",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "aebea02e5e5ac510",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "1.前卫摇滚/电吉他学习路线.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,8 +148,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f62ee6591de6eb9d",
+  "active": "2ee207d872bc2c16",
   "lastOpenFiles": [
-    "1.前卫摇滚/电吉他.md"
+    "0.引入.md",
+    "Tech/docusaurus.md",
+    "Tech/0.引入.md",
+    "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231010101901.jpg",
+    "Tech/img/图片下面有空白-20230918213042.png",
+    "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231009222031.png",
+    "Tech/img/图片下面有空白-20230918202123.png",
+    "Tech/img/图片下面有空白-20230918202253.png",
+    "Tech/img/哈夫曼树-20231102203844.png",
+    "Tech/img/初始化块-20231026204402.png",
+    "Tech/img/函数参数调用顺序-20231013180120.png",
+    "Tech/img/关于链表的next到底是什么-20231009210446.png",
+    "Tech/img/vim-cheatsheet-20230909183010.png",
+    "Tech/img",
+    "Tech/7.工具使用/工具以及工具网站速查.md",
+    "Tech/7.工具使用/Word里添加分节符,文本往后多了一行空格.md",
+    "Tech/7.工具使用/VScode快捷键.md",
+    "Tech/7.工具使用/vim-cheatsheet.pdf",
+    "Tech/7.工具使用/vim-cheatsheet（备忘单）.md",
+    "Tech/7.工具使用/Markdown语法.md",
+    "Tech/7.工具使用/Git及各个包管理工具代理配置.md",
+    "Tech/7.工具使用/Eclipse批量改变量名.md",
+    "Tech/7.工具使用/Ctrl+Z的反快捷键是Ctrl+Y.md",
+    "Tech/7.工具使用",
+    "Tech/6.操作系统/LF和CRLF.md",
+    "Tech/6.操作系统/字的概念.md",
+    "Tech/6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+    "Tech/6.操作系统",
+    "Tech/5.前卫摇滚/电吉他学习路线.md",
+    "Tech/5.前卫摇滚/电吉他.md",
+    "Tech/5.前卫摇滚",
+    "Tech/4.数据结构/1.二叉树.md",
+    "Tech/4.数据结构",
+    "Tech/2.JAVA/初始化块.md",
+    "Tech/2.JAVA/JAVA.md",
+    "Tech/2.JAVA/Enhanced for loop in JAVA.md",
+    "Tech/2.JAVA",
+    "Tech/1.C/波兰表达式.md",
+    "Tech/1.C/深入C中的整数（short，int，long）.md",
+    "Tech/1.C/哈夫曼树.md",
+    "Tech/1.C/函数参数的结构体指针返回值问题.md",
+    "Tech/1.C/关于输入的斜杠0和斜杠n还有EOF.md",
+    "Tech/1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
+    "Tech/1.C",
+    "Others",
+    "新建文件夹"
   ]
 }

@@ -47,14 +47,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Cxumhe/chipmunkshome/tree/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Cxumhe/chipmunkshome/tree/master',
 
           blogSidebarTitle: '近期blog',
           
@@ -75,7 +75,7 @@ const config = {
         routeBasePath: './others',
         sidebarPath: './sidebars.js',
         editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Cxumhe/chipmunkshome/tree/master',
         // ... other options
       },
     ],
