@@ -40,6 +40,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          id: 'tech',
+          path: './tech',
+          routeBasePath: './tech',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -63,6 +66,21 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'others',
+        path: './others',
+        routeBasePath: './others',
+        sidebarPath: './sidebars.js',
+        editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // ... other options
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -76,17 +94,32 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'right',
+            type: 'dropdown',
             label: 'Note',
+            position: 'right',
+            items: [
+              {
+                label: 'Tech',
+                docsPluginId: 'tech',
+                to: './tech/引入',
+              },
+              {
+                label: 'Others',
+                docsPluginId: 'others',
+                to: './others/前卫摇滚/电吉他',
+              },
+            ],
           },
-          {to: '/blog', label: 'Thinking', position: 'right'},
           {
-            to: '/esssay', label: 'Essay', position: 'right'
+            to: '/blog', 
+            // docsPluginId: 'Tech',
+            label: 'Thinking', 
+            position: 'right',
           },
           {
-            href: 'https://travellings.link', label: 'Portal', position: 'right'
+            href: 'https://travellings.link', 
+            label: 'Portal', 
+            position: 'right',
           },
           {
             href: 'https://github.com/Cxumhe',
@@ -102,7 +135,7 @@ const config = {
             title: ' ',
             items: [
               {
-                html: `<a href='https://docusaurus.io/' target='_blank'><img class="atelier-union" src="/img/atelier-union.svg" alt="" /></a>`,
+                html: `<a href='https://cxumhe.top/' target='_blank'><img class="atelier-union" src="/img/atelier-union.svg" alt="" /></a>`,
               },
               {
                 html: `<div class="buildwith__title">Powered by</div><a style="display: flex; justify-content: center;" href='https://docusaurus.io/' target='_blank'><img class="buildwith" src="/img/buildwith1.png" alt="" /></a>`,
@@ -125,6 +158,7 @@ const config = {
   
         indexName: 'cxumhe',
         
+        placeholder: 'search for something',
 
       },
 

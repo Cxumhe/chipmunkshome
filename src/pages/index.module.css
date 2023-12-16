@@ -15,7 +15,7 @@
   overflow: hidden;
   max-width: 1432px;
   display: flex;
-  background-color: white;
+  background-color: var(--background-color);
 }
 
 @media screen and (min-width: 1420px) {

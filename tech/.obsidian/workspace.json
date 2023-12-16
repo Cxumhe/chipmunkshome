@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "428dda496362d4c0",
+            "id": "2ee207d872bc2c16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.前端/2.CSS/23.Styling links.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "love ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.前端/2.CSS/23.Styling links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.前端/2.CSS/23.Styling links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.前端/2.CSS/23.Styling links.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,53 +148,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "428dda496362d4c0",
+  "active": "2ee207d872bc2c16",
   "lastOpenFiles": [
-    "Eclipse批量改变量名.md",
-    "3.前端/2.CSS/图片下面有空白.md",
-    "3.前端/2.CSS/CSS属性速记.md",
-    "2.JAVA/Enhanced for loop in JAVA.md",
-    "3.前端/2.CSS/13.The box model.md",
-    "3.前端/2.CSS/30.Positioning.md",
-    "3.前端/2.CSS/17.CSS values and units.md",
-    "3.前端/2.CSS/23.Styling links.md",
-    "3.前端/2.CSS/2.Getting started with CSS.md",
-    "3.前端/2.CSS/✳选择器参考节.md",
-    "3.前端/3.JavaScript/9.Promise术语.md",
-    "3.前端/3.JavaScript/8.JSON.md",
-    "3.前端/3.JavaScript/5.关于比较运算符.md",
-    "3.前端/3.JavaScript/6.事件处理器.md",
-    "3.前端/3.JavaScript/7.对象以及面向对象基本概念.md",
-    "VScode快捷键.md",
-    "docusaurus.md",
-    "Git及各个包管理工具代理配置.md",
-    "3.前端/1.HTML/1.HTML start here.md",
-    "3.前端/1.HTML/4.Creating hyperlinks.md",
-    "3.前端/2.CSS/9.✳参考节.md",
-    "3.前端/1.HTML/2.Metadata.md",
-    "3.前端/1.HTML/3.HTML text fundamentals.md",
-    "3.前端/1.HTML/6.Document and website structure.md",
-    "3.前端/1.HTML/11.Adding vector graphics to the web.md",
-    "3.前端/1.HTML/8.Images in HTML.md",
-    "img/哈夫曼树-20231102203844.png",
-    "img/初始化块-20231026204402.png",
-    "5.数据结构",
-    "img/3.JS加载性能优化之script标签到底放在哪-20231024090822.png",
-    "img/3.JS加载性能优化之script标签到底放在哪-20231023163121.png",
-    "img/31.Multiple-column layout-20231019204113.png",
-    "3.前端/3.JavaScript",
-    "img/函数参数调用顺序-20231013180120.png",
-    "img/v2-1a27d85e5a3568dc3c2b05f9d7a4ac2c_1440w.webp",
-    "img/C语言运算符优先级-20231011225746.png",
-    "img/C语言运算符优先级-20231011225738.png",
-    "img/30.Positioning-20231010215453.png",
-    "vim-cheatsheet.pdf",
-    "2.JAVA",
-    "1.C",
-    "WEB FRONT_END/vim-cheatsheet.pdf",
-    "新建 文本文档.txt",
-    "img",
-    "新建文件夹",
-    "what"
+    "0.引入.md",
+    "Tech/docusaurus.md",
+    "Tech/0.引入.md",
+    "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231010101901.jpg",
+    "Tech/img/图片下面有空白-20230918213042.png",
+    "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231009222031.png",
+    "Tech/img/图片下面有空白-20230918202123.png",
+    "Tech/img/图片下面有空白-20230918202253.png",
+    "Tech/img/哈夫曼树-20231102203844.png",
+    "Tech/img/初始化块-20231026204402.png",
+    "Tech/img/函数参数调用顺序-20231013180120.png",
+    "Tech/img/关于链表的next到底是什么-20231009210446.png",
+    "Tech/img/vim-cheatsheet-20230909183010.png",
+    "Tech/img",
+    "Tech/7.工具使用/工具以及工具网站速查.md",
+    "Tech/7.工具使用/Word里添加分节符,文本往后多了一行空格.md",
+    "Tech/7.工具使用/VScode快捷键.md",
+    "Tech/7.工具使用/vim-cheatsheet.pdf",
+    "Tech/7.工具使用/vim-cheatsheet（备忘单）.md",
+    "Tech/7.工具使用/Markdown语法.md",
+    "Tech/7.工具使用/Git及各个包管理工具代理配置.md",
+    "Tech/7.工具使用/Eclipse批量改变量名.md",
+    "Tech/7.工具使用/Ctrl+Z的反快捷键是Ctrl+Y.md",
+    "Tech/7.工具使用",
+    "Tech/6.操作系统/LF和CRLF.md",
+    "Tech/6.操作系统/字的概念.md",
+    "Tech/6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+    "Tech/6.操作系统",
+    "Tech/5.前卫摇滚/电吉他学习路线.md",
+    "Tech/5.前卫摇滚/电吉他.md",
+    "Tech/5.前卫摇滚",
+    "Tech/4.数据结构/1.二叉树.md",
+    "Tech/4.数据结构",
+    "Tech/2.JAVA/初始化块.md",
+    "Tech/2.JAVA/JAVA.md",
+    "Tech/2.JAVA/Enhanced for loop in JAVA.md",
+    "Tech/2.JAVA",
+    "Tech/1.C/波兰表达式.md",
+    "Tech/1.C/深入C中的整数（short，int，long）.md",
+    "Tech/1.C/哈夫曼树.md",
+    "Tech/1.C/函数参数的结构体指针返回值问题.md",
+    "Tech/1.C/关于输入的斜杠0和斜杠n还有EOF.md",
+    "Tech/1.C/C动态内存分配函数malloc、calloc、realloc、free.md",
+    "Tech/1.C",
+    "Others",
+    "新建文件夹"
   ]
 }
