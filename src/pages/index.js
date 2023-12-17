@@ -30,7 +30,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className={clsx("button button--secondary button--lg",styles.button)}
-              to="/docs/C/C中，两个指针相减的意义">
+              to='/./tech/引入'>
               Let's go!
             </Link>
           </div>

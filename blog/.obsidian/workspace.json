@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<abbr",
+                "query": "现代",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "93e967009f4195dd",
+  "active": "65e8f12ce434a4d9",
   "lastOpenFiles": [
     "技术互联网精神.md",
     "啊啊啊啊.md",
