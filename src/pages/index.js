@@ -29,7 +29,7 @@ function HomepageHeader() {
           <h2 className={clsx("hero__subtitle", styles.hero__subtitle)}>A ambitious <span>full-stack</span> learner.</h2>
           <div className={styles.buttons}>
             <Link
-              className={clsx("button button--secondary button--lg",styles.button)}
+              className={clsx("button button--secondary button--lg",styles.buttonIndex)}
               to='/./tech/引入'>
               Let's go!
             </Link>
