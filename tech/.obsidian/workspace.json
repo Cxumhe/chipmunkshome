@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.前端/2.CSS/9.✳参考节.md",
+                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.前端/2.CSS/9.✳参考节.md",
+                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.前端/2.CSS/9.✳参考节.md",
+                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.前端/2.CSS/9.✳参考节.md"
+                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "cecdf87dce23fe2f",
   "lastOpenFiles": [
+    "8.python/python除号和双斜杠.md",
+    "3.前端/2.CSS/9.✳参考节.md",
+    "8.python",
     "3.前端/2.CSS/✳选择器参考节.md",
     "6.操作系统/'parameter' vs 'argument'.md",
     "3.前端/3.JavaScript/11.js无缝轮播图.md",
@@ -201,8 +204,6 @@
     "3.前端/2.CSS/30.Positioning.md",
     "3.前端/2.CSS/32.响应式设计，媒体查询，传统布局，支持旧浏览器.md",
     "3.前端/2.CSS/图片下面有空白.md",
-    "3.前端/3.JavaScript/2.现成的方法.md",
-    "3.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
     "7.工具使用/vim-cheatsheet.pdf",
     "img/哈夫曼树-20231102203844.png",
     "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231010101901.jpg",
@@ -217,7 +218,6 @@
     "Tech/5.前卫摇滚",
     "Tech/4.数据结构",
     "Tech/2.JAVA",
-    "Tech/1.C",
-    "Others"
+    "Tech/1.C"
   ]
 }

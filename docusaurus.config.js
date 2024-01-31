@@ -143,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `@${new Date().getFullYear()} Cxumhe. All rights reserved.`,
+        copyright: `@${new Date().getFullYear()} Cxumhe. All rights reserved.<a href="https://icp.gov.moe/?keyword=20242077" target="_blank">萌ICP备20242077号</a>`,
       },
       prism: {
         theme: prismThemes.github,
