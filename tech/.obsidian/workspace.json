@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-03-27.md",
+                "file": "3.前端/2.CSS/css中transform translate元素居中.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-03-27.md",
+                "file": "3.前端/2.CSS/css中transform translate元素居中.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-03-27.md",
+                "file": "3.前端/2.CSS/css中transform translate元素居中.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-03-27.md"
+                "file": "3.前端/2.CSS/css中transform translate元素居中.md"
               }
             }
           },
@@ -161,19 +161,21 @@
   },
   "active": "eee1c3219e12a108",
   "lastOpenFiles": [
-    "journal/2024-03-24.md",
+    "3.前端/2.CSS/图片下面有空白.md",
+    "3.前端/2.CSS/css中transform translate元素居中.md",
+    "react/JS-getRandom().md",
     "journal/2024-03-27.md",
+    "img/2024-03-27-20240327162602.png",
+    "journal/2024-03-24.md",
     "journal/2024-03-25.md",
     "img/2024-03-27-20240327160327.png",
     "img/2024-03-27-20240327153918.png",
     "react/深入setState.md",
     "7.工具使用/工具以及工具网站速查.md",
     "7.工具使用/VScode快捷键.md",
-    "react/JS-getRandom().md",
     "3.前端/2.CSS/27.Flexbox.md",
     "3.前端/2.CSS/28.Grids.md",
     "3.前端/2.CSS/29.Floats.md",
-    "3.前端/2.CSS/css中transform translate(-50%, -50%);的意思.md",
     "docusaurus.md",
     "7.工具使用/Eclipse批量改变量名.md",
     "7.工具使用/Word里添加分节符,文本往后多了一行空格.md",
@@ -200,7 +202,6 @@
     "7.工具使用/vim-cheatsheet.pdf",
     "8.python",
     "img/25.Introduction to CSS layout-20231004094742.png",
-    "img/25.Introduction to CSS layout-20231004092120.png",
     "Tech/img",
     "Tech/7.工具使用/vim-cheatsheet.pdf",
     "Tech/7.工具使用",
