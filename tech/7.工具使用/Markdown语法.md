@@ -23,12 +23,12 @@ Markdown 速查表提供了所有 Markdown 语法元素的基本解释。如果�
 
 这些元素通过添加额外的功能扩展了基本语法。但是，并非所有 Markdown 应用程序都支持这些元素。
 
-|元素|Markdown 语法|
-|---|---|
-|[表格（Table）](https://markdown.com.cn/extended-syntax/tables.html)|`\| Syntax      \| Description \|   \| ----------- \| ----------- \|   \| Header      \| Title       \|   \| Paragraph   \| Text        \|`|
-|[代码块（Fenced Code Block）](https://markdown.com.cn/extended-syntax/fenced-code-blocks.html)|` ```   {     "firstName": "John",     "lastName": "Smith",     "age": 25   }   ``` `|
-|[脚注（Footnote）](https://markdown.com.cn/extended-syntax/footnotes.html)|Here's a sentence with a footnote. `[^1]`  <br />`[^1]`: This is the footnote.|
-|[标题编号（Heading ID）](https://markdown.com.cn/extended-syntax/heading-ids.html)|`### My Great Heading {#custom-id}`|
-|[定义列表（Definition List）](https://markdown.com.cn/extended-syntax/definition-lists.html)|`term   : definition`|
-|[删除线（Strikethrough）](https://markdown.com.cn/extended-syntax/strikethrough.html)|`~~The world is flat.~~`|
-|[任务列表（Task List）](https://markdown.com.cn/extended-syntax/task-lists.html)|`- [x] Write the press release   - [ ] Update the website   - [ ] Contact the media`|
+| 元素                                                                                        | Markdown 语法                                                                                                                                 |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [表格（Table）](https://markdown.com.cn/extended-syntax/tables.html)                          | `\| Syntax      \| Description \|   \| ----------- \| ----------- \|   \| Header      \| Title       \|   \| Paragraph   \| Text        \|` |
+| [代码块（Fenced Code Block）](https://markdown.com.cn/extended-syntax/fenced-code-blocks.html) | ` ```   {     "firstName": "John",     "lastName": "Smith",     "age": 25   }   ``` `                                                       |
+| [脚注（Footnote）](https://markdown.com.cn/extended-syntax/footnotes.html)                    | Here's a sentence with a footnote. `[^1]`  <br />`[^1]`: This is the footnote.                                                              |
+| [标题编号（Heading ID）](https://markdown.com.cn/extended-syntax/heading-ids.html)              | `### My Great Heading {#custom-id}`                                                                                                         |
+| [定义列表（Definition List）](https://markdown.com.cn/extended-syntax/definition-lists.html)    | `term   : definition`                                                                                                                       |
+| [删除线（Strikethrough）](https://markdown.com.cn/extended-syntax/strikethrough.html)          | `~~The world is flat.~~`                                                                                                                    |
+| [任务列表（Task List）](https://markdown.com.cn/extended-syntax/task-lists.html)                | `- [x] Write the press release   - [ ] Update the website   - [ ] Contact the media`                                                        |

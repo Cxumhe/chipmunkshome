@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "27a691f6417c0656",
+        "id": "19411e71d181c0d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee207d872bc2c16",
+            "id": "eee1c3219e12a108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.前端/1.HTML/1.HTML start here.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cecdf87dce23fe2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+                "file": "journal/2024-03-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+                "file": "journal/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md",
+                "file": "journal/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.操作系统/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解.md"
+                "file": "journal/2024-03-27.md"
               }
             }
           },
@@ -163,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -171,53 +159,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cecdf87dce23fe2f",
+  "active": "eee1c3219e12a108",
   "lastOpenFiles": [
-    "8.python/python除号和双斜杠.md",
-    "3.前端/2.CSS/9.✳参考节.md",
-    "8.python",
-    "3.前端/2.CSS/✳选择器参考节.md",
-    "6.操作系统/'parameter' vs 'argument'.md",
-    "3.前端/3.JavaScript/11.js无缝轮播图.md",
-    "3.前端/Chromium，V8，Blink，Gecko，Webkit之间的区别.md",
-    "3.前端/MDN浏览器支持框里面的数字是什么意思.md",
-    "3.前端/HTML属性英文缩写速查.md",
-    "3.前端/HTML标签语义英文缩写速查.md",
-    "3.前端/HTML空格.md",
-    "3.前端/1.HTML/14.HTML table advanced features and accessibility.md",
-    "3.前端/2.CSS/12.Cascade layers.md",
-    "3.前端/2.CSS/13.The box model.md",
-    "3.前端/2.CSS/18.Sizing items in CSS.md",
-    "3.前端/2.CSS/19.Images, media, and form elements.md",
-    "3.前端/2.CSS/24.Web fonts.md",
-    "3.前端/2.CSS/25.Introduction to CSS layout.md",
-    "img/25.Introduction to CSS layout-20231004094742.png",
-    "img/25.Introduction to CSS layout-20231004092120.png",
-    "img/25.Introduction to CSS layout-20231004092100.png",
-    "3.前端/2.CSS/26.Normal Flow.md",
+    "journal/2024-03-24.md",
+    "journal/2024-03-27.md",
+    "journal/2024-03-25.md",
+    "img/2024-03-27-20240327160327.png",
+    "img/2024-03-27-20240327153918.png",
+    "react/深入setState.md",
+    "7.工具使用/工具以及工具网站速查.md",
+    "7.工具使用/VScode快捷键.md",
+    "react/JS-getRandom().md",
     "3.前端/2.CSS/27.Flexbox.md",
     "3.前端/2.CSS/28.Grids.md",
-    "img/25.Introduction to CSS layout-20231004095009.png",
     "3.前端/2.CSS/29.Floats.md",
-    "3.前端/2.CSS/33.Media queries.md",
-    "3.前端/2.CSS/31.Multiple-column layout.md",
-    "3.前端/2.CSS/30.Positioning.md",
-    "3.前端/2.CSS/32.响应式设计，媒体查询，传统布局，支持旧浏览器.md",
-    "3.前端/2.CSS/图片下面有空白.md",
+    "3.前端/2.CSS/css中transform translate(-50%, -50%);的意思.md",
+    "docusaurus.md",
+    "7.工具使用/Eclipse批量改变量名.md",
+    "7.工具使用/Word里添加分节符,文本往后多了一行空格.md",
+    "img/2024-03-24-20240324154948.png",
+    "img/2024-03-24-20240324151406.png",
+    "未命名.canvas",
+    "7.工具使用/Markdown语法.md",
+    "journal",
+    "react/今天了解了一下react的几个框架还有服务端渲染(SSR).md",
+    "react/ref.md",
+    "未命名.md",
+    "react/react杂项.md",
+    "react/表单.md",
+    "react/控制台console.log的bug.md",
+    "3.前端/2.CSS/9.✳参考节.md",
+    "3.前端/2.CSS/✳选择器参考节.md",
+    "3.前端/3.JavaScript/11.js无缝轮播图.md",
+    "react/属性默认值 和 类型检查.md",
+    "img/生命周期-20240316185213.png",
+    "img/PixPin_2024-03-11_22-14-45.webp",
+    "img/控制台console.log的bug-20240311220650.png",
+    "img/JS-getRandom()-20240309173936.png",
+    "react",
     "7.工具使用/vim-cheatsheet.pdf",
-    "img/哈夫曼树-20231102203844.png",
-    "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231010101901.jpg",
-    "Tech/img/图片下面有空白-20230918213042.png",
-    "Tech/img/字符集和字符编码，Unicode、UTF-8、UTF-16、UTF-32、GB2312、GBK、GB18030详解-20231009222031.png",
-    "Tech/img/图片下面有空白-20230918202123.png",
-    "Tech/img/图片下面有空白-20230918202253.png",
+    "8.python",
+    "img/25.Introduction to CSS layout-20231004094742.png",
+    "img/25.Introduction to CSS layout-20231004092120.png",
     "Tech/img",
     "Tech/7.工具使用/vim-cheatsheet.pdf",
     "Tech/7.工具使用",
     "Tech/6.操作系统",
     "Tech/5.前卫摇滚",
-    "Tech/4.数据结构",
-    "Tech/2.JAVA",
-    "Tech/1.C"
+    "Tech/4.数据结构"
   ]
 }
