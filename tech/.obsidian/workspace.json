@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.前端/2.CSS/css中transform translate元素居中.md",
+                "file": "journal/2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54dca7bfb698eab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.前端/2.CSS/27.Flexbox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "align",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.前端/2.CSS/css中transform translate元素居中.md",
+                "file": "3.前端/2.CSS/27.Flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.前端/2.CSS/css中transform translate元素居中.md",
+                "file": "3.前端/2.CSS/27.Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.前端/2.CSS/css中transform translate元素居中.md"
+                "file": "3.前端/2.CSS/27.Flexbox.md"
               }
             }
           },
@@ -159,49 +173,49 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eee1c3219e12a108",
+  "active": "54dca7bfb698eab5",
   "lastOpenFiles": [
-    "3.前端/2.CSS/图片下面有空白.md",
-    "3.前端/2.CSS/css中transform translate元素居中.md",
-    "react/JS-getRandom().md",
-    "journal/2024-03-27.md",
-    "img/2024-03-27-20240327162602.png",
+    "3.前端/2.CSS/11.Cascade, specificity, and inheritance.md",
+    "img/Pasted image 20240401225156.png",
+    "img/2024-04-01-20240401225028.png",
+    "react/表单.md",
+    "react/今天了解了一下react的几个框架还有服务端渲染(SSR).md",
+    "react/HOF和HOC高阶组件和高阶函数.md",
+    "journal/2024-04-01.md",
+    "img/2024-04-01-20240401202311.png",
+    "journal/2024-03-30.md",
+    "journal/2024-03-31.md",
     "journal/2024-03-24.md",
     "journal/2024-03-25.md",
+    "journal/2024-03-27.md",
+    "journal/2024-03-28.md",
+    "journal/2024-03-29.md",
+    "img/2024-03-30-20240330141202.png",
+    "img/2024-03-30-20240330141134.png",
+    "7.工具使用/工具以及工具网站速查.md",
+    "3.前端/2.CSS/17.CSS values and units.md",
+    "3.前端/2.CSS/14.Backgrounds and borders.md",
+    "3.前端/2.CSS/css中transform translate元素居中.md",
+    "3.前端/2.CSS/图片下面有空白.md",
+    "3.前端/2.CSS/✳选择器参考节.md",
+    "img/2024-03-29-20240329160648.png",
+    "img/2024-03-25-20240328230640.png",
+    "react/JS-getRandom().md",
+    "img/2024-03-27-20240327162602.png",
     "img/2024-03-27-20240327160327.png",
     "img/2024-03-27-20240327153918.png",
     "react/深入setState.md",
-    "7.工具使用/工具以及工具网站速查.md",
     "7.工具使用/VScode快捷键.md",
     "3.前端/2.CSS/27.Flexbox.md",
     "3.前端/2.CSS/28.Grids.md",
     "3.前端/2.CSS/29.Floats.md",
     "docusaurus.md",
     "7.工具使用/Eclipse批量改变量名.md",
-    "7.工具使用/Word里添加分节符,文本往后多了一行空格.md",
-    "img/2024-03-24-20240324154948.png",
-    "img/2024-03-24-20240324151406.png",
     "未命名.canvas",
-    "7.工具使用/Markdown语法.md",
     "journal",
-    "react/今天了解了一下react的几个框架还有服务端渲染(SSR).md",
-    "react/ref.md",
-    "未命名.md",
-    "react/react杂项.md",
-    "react/表单.md",
-    "react/控制台console.log的bug.md",
-    "3.前端/2.CSS/9.✳参考节.md",
-    "3.前端/2.CSS/✳选择器参考节.md",
-    "3.前端/3.JavaScript/11.js无缝轮播图.md",
-    "react/属性默认值 和 类型检查.md",
-    "img/生命周期-20240316185213.png",
-    "img/PixPin_2024-03-11_22-14-45.webp",
-    "img/控制台console.log的bug-20240311220650.png",
-    "img/JS-getRandom()-20240309173936.png",
     "react",
     "7.工具使用/vim-cheatsheet.pdf",
     "8.python",
-    "img/25.Introduction to CSS layout-20231004094742.png",
     "Tech/img",
     "Tech/7.工具使用/vim-cheatsheet.pdf",
     "Tech/7.工具使用",
