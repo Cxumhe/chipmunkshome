@@ -1,0 +1,1 @@
+无障碍富互联网应用（Accessible Rich Internet Applications，ARIA）是一组角色和属性，用于定义使残障人士更易于访问 web 内容和 web 应用程序（尤其是使用 JavaScript 开发的应用程序）的方法。
