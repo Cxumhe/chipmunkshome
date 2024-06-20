@@ -18,10 +18,10 @@ short <= int <= long
 
 在64位环境下，不同的操作系统会有不同的结果，如下所示（长度以字节计）：
 
-|操作系统|short|int|long|
-|---|---|---|---|
-|Win64|2|4|4|
-|类Unix系统（包括 Unix、Linux、OS X、BSD、Solaris 等）|2|4|8|
+| 操作系统                                      | short | int | long |
+| ----------------------------------------- | ----- | --- | ---- |
+| Win64                                     | 2     | 4   | 4    |
+| 类Unix系统（包括 Unix、Linux、OS X、BSD、Solaris 等） | 2     | 4   | 8    |
 
   
 目前我们使用较多的PC系统为 Win XP、Win 7、Win 8、Win 10、Mac OS X、Linux，short 和 int 的长度都是固定的，分别为2和4，大家可以放心使用，long 的长度在 Win64 和类Unix系统下会有所不同，使用时要注意移植性。  
